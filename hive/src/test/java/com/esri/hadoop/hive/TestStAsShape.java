@@ -2,7 +2,6 @@ package com.esri.hadoop.hive;
 
 import static org.junit.Assert.*;
 
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 import org.apache.hadoop.io.BytesWritable;
 import org.junit.Test;
 

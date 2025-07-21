@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.esri.json"},{"l":"com.esri.json.deserializer"},{"l":"com.esri.json.hadoop"},{"l":"com.esri.json.serializer"}];updateSearchResults();

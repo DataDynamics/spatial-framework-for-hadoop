@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import org.apache.hadoop.io.BytesWritable;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 public class TestStY {
 

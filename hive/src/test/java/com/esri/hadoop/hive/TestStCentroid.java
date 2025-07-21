@@ -5,7 +5,6 @@ import org.junit.Test;
 
 import org.apache.hadoop.io.BytesWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 import com.esri.core.geometry.Point;
 

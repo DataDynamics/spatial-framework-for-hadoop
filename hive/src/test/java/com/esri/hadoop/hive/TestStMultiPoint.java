@@ -5,7 +5,6 @@ import org.junit.Test;
 
 import org.apache.hadoop.io.BytesWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 // select ST_GeometryType(ST_MultiPoint('multipoint ((1 2))')) from onerow;
 

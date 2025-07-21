@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import org.apache.hadoop.io.BytesWritable;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 // select ST_MinY(ST_GeomFromGeoJson('{"type":"LineString", "coordinates":[[1,2], [3,4]]}')) from onerow;
 // select ST_MinY(ST_Point(1,2)) from onerow;

@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import org.apache.hadoop.io.BytesWritable;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 // select ST_MinX(ST_Point(1,2)) from onerow;
 // select ST_MinX(ST_LineString(1.5,2.5, 3.0,2.2)) from onerow;

@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import org.apache.hadoop.io.BytesWritable;
 import org.apache.hadoop.io.Text;
-import org.apache.hadoop.hive.serde2.io.DoubleWritable;
 
 // select ST_GeometryType(ST_Linestring(10,10, 20,20)) from onerow;
 // select ST_GeometryType(ST_Linestring('linestring (10 10, 20 20)')) from onerow;

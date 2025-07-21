@@ -1,0 +1,3 @@
+com.esri.hadoop.hive
+com.esri.hadoop.hive.serde
+com.esri.hadoop.shims
